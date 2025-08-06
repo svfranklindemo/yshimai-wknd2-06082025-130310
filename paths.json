@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/language-masters/en:/",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/language-masters/en/:/",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/language-masters/en/:/en/",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/configuration:/.helix/config.json",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/metadata:/metadata.json",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/redirects:/redirects.json",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/placeholders:/placeholders.json",
+    "/content/yshimai-yshimai-2025-8-6-22-3-7.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/yshimai-yshimai-2025-8-6-22-3-7/",
+    "/content/dam/yshimai-yshimai-2025-8-6-22-3-7/"
   ]
 }
